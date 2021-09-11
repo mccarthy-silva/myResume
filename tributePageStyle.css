@@ -1,0 +1,61 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+#main {
+  width: 80%;
+  margin: auto;
+}
+
+#title {
+  text-align: center;
+  font-size: 90px;
+}
+
+span {
+  color: red;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+}
+
+#img-caption {
+  text-align: center;
+  font-size: xx-large;
+}
+
+#tribute-info{
+    text-align: center;
+    font-size: 23px;
+    line-height: 1.5;
+}
+
+
+#comics{
+    font-size: 60px;
+}
+#footer{
+    text-align: center;
+}
+
+#tribute-link{
+    text-decoration: none;
+    color: red;
+    color: rgb(255,0,0);
+    color: #ff0000;
+}
+
+li {
+    line-height: 1.8;
+    font-size: 23px;
+}
+
+.heading{
+    font-family: "Lobster", cursive;
+
+}
